@@ -9,5 +9,6 @@ namespace testgit
     class Class2
     {
         private int do1;
+        private int do2;
     }
 }
