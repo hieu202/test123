@@ -8,5 +8,6 @@ namespace testgit
 {
     class Class2
     {
+        private int do1;
     }
 }
